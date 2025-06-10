@@ -20,5 +20,19 @@
     "build": "parcel build public/index.html",
     "new-component": "new-component"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "description": "## Joy of React, Project I",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celeste-Rhoades/wordle.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Celeste-Rhoades/wordle/issues"
+  },
+  "homepage": "https://github.com/Celeste-Rhoades/wordle#readme"
 }
